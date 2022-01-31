@@ -1,0 +1,26 @@
+body {
+    background-color:#B1D0E0;
+    
+  }
+  hr {
+    background-color: #B1D0E0;
+    border-style:none;
+    border-top-style: dotted;
+    border-color: #6998AB;
+    border-width: 5px;
+    width: 10%;
+  }
+  h1 {
+    color: #1A374D;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  h2 {
+    color: #1A374D;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  h3 {
+    color: #1A374D;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  
